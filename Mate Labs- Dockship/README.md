@@ -2,7 +2,7 @@
 
 # Mate Labs Demand Forecasting Hiring Challenge
 
-This competition was hosted by [Mate Labs](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/rank.png) on [Dockship](https://dockship.io) platform. Only those whose applications were approved by Mate Labs were allowed to participate in this competition. It lasted from September 8, 2020 to September 30, 2020. My solutions were ranked **1** on the leaderboard.
+This competition was hosted by [Mate Labs](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/rank.png) on [Dockship](https://dockship.io) platform. Only those whose applications were approved by Mate Labs were allowed to participate in this competition. It lasted from September 8, 2020 to September 30, 2020. My solutions was ranked **1st** on the leaderboard.
 
 * [Hall of Fame](https://dockship.io/hall-of-fame)
 * [Certificate](https://dockship.io/certificates/5f7470bbfbaa7b0393ff1ad3)
