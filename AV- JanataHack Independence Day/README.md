@@ -58,7 +58,11 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
   Approach:
 </h3>
 
-
+<p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
+  Data was cleaned using a python package I made- <a href="https://pypi.org/project/swachhdata/">swachhdata</a>
+  
+  Many models were tried like, LGBM, SVC, Logistic but in the end XGBoost was selected.
+</p>
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Connect with me:
