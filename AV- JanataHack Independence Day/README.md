@@ -17,7 +17,7 @@ Note that a research article can possibly have more than 1 topics. The research 
 
 * Computer Science
 * Mathematics
-* Phhysics
+* Physics
 * Statistics
 * Quantitative Biology
 * Quantitative Finance
