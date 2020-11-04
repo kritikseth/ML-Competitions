@@ -64,6 +64,11 @@ The evaluation metric for this hackathon is ROC_AUC score.
 </h3>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
+  Data cleaning consists of: log tranformation, label encoding, ordinal encoding, scaling, etc.
+  
+  Through feature engineering multiple new feaures were formulated
+  
+  Many models and modelling methods were tried (including stacking, voting), but because of all the categorical variables, catboost performed the bes for us.
 </p>
 
 
