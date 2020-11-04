@@ -3,7 +3,7 @@
 </h1>
 
 <h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
-  Problem Statement
+  Problem Statement:
 </h2>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
@@ -22,10 +22,42 @@ Note that a research article can possibly have more than 1 topics. The research 
 </ul>  
 
 <h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
-  Evaluaion Metric
+  Evaluaion Metric:
 </h2>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
 Submissions are evaluated on micro F1 Score between the predicted and observed topics for each article in the test set
 </p>
+
+<h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Dataset:
+</h2>
+
+<ul>
+  <li>
+    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_train.csv" target="_blank">
+     <p>
+        Train
+     </p>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_test.csv" target="_blank">
+     <p>
+        Test
+     </p>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_sample_submission.csv" target="_blank">
+     <p>
+        Sample Submission
+     </p>
+    </a>
+  </li>
+</ul>  
+
+
 
