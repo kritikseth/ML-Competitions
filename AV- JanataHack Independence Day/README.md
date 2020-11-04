@@ -1,8 +1,8 @@
-<h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+<h1 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   <a href="https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/" target="_blank">
     Analytics Vidhya- JanataHack Independence Day 2020
   </a>
-</h2>
+</h1>
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Problem Statement:
