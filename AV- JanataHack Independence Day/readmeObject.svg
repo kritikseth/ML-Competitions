@@ -1,14 +1,13 @@
 <svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-	<footer id="footer">
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-			<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+	<section id="cta" class="main special">
+		<h2>Etiam veroeros lorem</h2>
+		<p>Phasellus ac augue ac magna auctor tempus proin<br />
+		accumsan lacus a nibh commodo in pellentesque dui<br />
+		in hac habitasse platea dictumst.</p>
+		<ul class="actions">
+			<li><a href="#" class="button big">Get Started</a></li>
 		</ul>
-		<p class="copyright">&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.</p>
-	</footer>
+	</section>
   </foreignObject>
 </svg>
