@@ -39,5 +39,14 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
 * [Test](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_test.csv)
 * [Sample Submission](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_sample_submission.csv)
 
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Accuracy:
+</h3>
 
+<dl>
+  <dt>Public Leaderboard</dt>
+  <dd>- 0.7527</dd>
+  <dt>Private Leaderboard</dt>
+  <dd>- 0.7466</dd>
+</dl>
 
