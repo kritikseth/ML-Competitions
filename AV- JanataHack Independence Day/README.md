@@ -48,3 +48,9 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
   <dt>Private Leaderboard- 0.7466</dt>
 </dl>
 
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Approach:
+</h3>
+
+
+
