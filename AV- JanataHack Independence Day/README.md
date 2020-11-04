@@ -12,6 +12,19 @@
    <strong>[LIVE]</strong>  <small>15-08-2020 to 23-08-2020</small>
 </p>
 
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  TL;DR
+</h3>
+
+<details>
+<summary>Expand</summary>
+  Given the abstract and title of research papers, predict the topic of research paper (multi-label classification). Evaluation metric was micro F1 score. Text cleaning was performed using <a href="https://pypi.org/project/swachhdata/">swachhdata</a> a python package made by me for data cleaning. Model finalised here was XGBoost.
+  
+  * Public Leaderboard- 0.7527
+  * Private Leaderboard- 0.7466
+
+</details>
+
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Problem Statement:
