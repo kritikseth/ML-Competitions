@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Problem Statement:
 </h3>
@@ -22,13 +23,15 @@ Note that a research article can possibly have more than 1 topics. The research 
 * Quantitative Biology
 * Quantitative Finance
 
+
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
-  Evaluaion Metric:
+  Evaluation Metric:
 </h3>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
 Submissions are evaluated on micro F1 Score between the predicted and observed topics for each article in the test set
 </p>
+
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Dataset:
@@ -45,6 +48,7 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
 !wget -O 'sample_submission.csv' 'https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_sample_submission.csv'
 ````
 
+
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Scores:
 </h3>
@@ -53,6 +57,7 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
   <dt>Public Leaderboard- 0.7527</dt>
   <dt>Private Leaderboard- 0.7466</dt>
 </dl>
+
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Approach:
@@ -63,6 +68,7 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
   
   Many models were tried like: LGBM, SVC, Logistic but in the end XGBoost was selected.
 </p>
+
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Connect with me:
