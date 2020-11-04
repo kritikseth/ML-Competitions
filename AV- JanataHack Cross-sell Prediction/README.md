@@ -12,6 +12,18 @@
    <strong>[LIVE]</strong>  <small>11-09-2020 to 20-09-2020</small>
 </p>
 
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  TL;DR
+</h3>
+
+<details>
+<summary>Expand</summary>
+  The objective (classification) was to predict the probability a customer would opt for vehicle insurance of a company if the customer already has health insurance from the same company. Evaluation metric was ROC_AUC. The model finalised here was catboost (with early stopping in order to prevent overfitting).
+  
+  * Public Leaderboard- 0.8583
+  * Private Leaderboard- 0.8626
+
+</details>
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Problem Statement:
