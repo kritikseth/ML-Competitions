@@ -14,14 +14,13 @@
 Note that a research article can possibly have more than 1 topics. The research article abstracts are sourced from the following 6 topics:
 </p>
 
-<ul>
-  <li>Computer Science</li>
-  <li>Mathematics</li>
-  <li>Physics</li>
-  <li>Statistics</li>
-  <li>Quantitative Biology</li>
-  <li>Quantitative Finance</li>
-</ul>  
+
+* Computer Science
+* Mathematics
+* Phhysics
+* Statistics
+* Quantitative Biology
+* Quantitative Finance
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Evaluaion Metric:
@@ -54,4 +53,13 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
 
 
 
-<i class="fab fa-kaggle"></i>
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Connect with me:
+</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritikseth)](https://www.linkedin.com/in/kritikseth)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sethkritik@gmail.com)](mailto:sethkritik@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kritikseth)](https://medium.com/@kritikseth)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kritikseth)](https://www.kaggle.com/kritikseth) 
+
+<!-- section - social media icons -->
