@@ -1,10 +1,12 @@
-<h1 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
-  Analytics Vidhya- JanataHack Independence Day 2020
-</h1>
-
 <h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
-  Problem Statement:
+  <a href="https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/" target="_blank">
+    Analytics Vidhya- JanataHack Independence Day 2020
+  </a>
 </h2>
+
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Problem Statement:
+</h3>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
   Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.
@@ -21,17 +23,17 @@ Note that a research article can possibly have more than 1 topics. The research 
   <li>Quantitative Finance</li>
 </ul>  
 
-<h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Evaluaion Metric:
-</h2>
+</h3>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
 Submissions are evaluated on micro F1 Score between the predicted and observed topics for each article in the test set
 </p>
 
-<h2 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Dataset:
-</h2>
+</h3>
 
 * [Train](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_train.csv)
 * [Test](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_test.csv)
