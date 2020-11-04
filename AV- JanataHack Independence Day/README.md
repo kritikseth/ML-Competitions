@@ -44,9 +44,7 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
 </h3>
 
 <dl>
-  <dt>Public Leaderboard</dt>
-  <dd>- 0.7527</dd>
-  <dt>Private Leaderboard</dt>
-  <dd>- 0.7466</dd>
+  <dt>Public Leaderboard- 0.7527</dt>
+  <dt>Private Leaderboard- 0.7466</dt>
 </dl>
 
