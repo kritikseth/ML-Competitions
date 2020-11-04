@@ -33,31 +33,9 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
   Dataset:
 </h2>
 
-<ul>
-  <li>
-    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_train.csv" target="_blank">
-     <p>
-        Train
-     </p>
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_test.csv" target="_blank">
-     <p>
-        Test
-     </p>
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_sample_submission.csv" target="_blank">
-     <p>
-        Sample Submission
-     </p>
-    </a>
-  </li>
-</ul>  
+* [Train](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_train.csv)
+* [Test](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_test.csv)
+* [Sample Submission](https://raw.githubusercontent.com/kritikseth/Datasets/master/Analytics%20Vidhya/JanataHack%20Independence%20Day%202020%20/janatahack_independence_day_2020_sample_submission.csv)
 
 
 
