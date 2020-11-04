@@ -4,6 +4,14 @@
   </a>
 </h1>
 
+<h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
+  Participation Date:
+</h3>
+
+<p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
+   <strong>[LIVE]</strong>  <small>11-09-2020 to 20-09-2020</small>
+</p>
+
 
 <h3 style="color: 'black'; font-family: 'Lato', sans-serif; font-weight: 300; ">
   Problem Statement:
