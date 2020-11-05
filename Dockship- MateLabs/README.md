@@ -1,6 +1,6 @@
 <a href="https://kritikseth.github.io/ipynbtagredirect" target="_parent"><img src="https://raw.githack.com/kritikseth/kritikseth/master/assets/icons/kritik_ipynbtagredirect.svg" alt="Kritik Seth"/></a>
 
-# Mate Labs Demand Forecasting Hiring Challenge
+# MateLabs Demand Forecasting Hiring Challenge
 
 This competition was hosted by [Mate Labs](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/rank.png) on [Dockship](https://dockship.io) platform. Only those whose applications were approved by Mate Labs were allowed to participate in this competition. It lasted from September 8, 2020 to September 30, 2020. My solutions was ranked **1st** on the leaderboard.
 
