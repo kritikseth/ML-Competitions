@@ -36,7 +36,7 @@ This competition was hosted by Mate Labs on Dockship platform. Only those whose 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
   A major FMCG company which sells various health and hygiene related products wants to understand their market dynamics to come up with better planning in their supply chain. When demand planners can have accurate ideas about the future demand for a given product, they can strategize their manufacturing, warehouse management, logistics, promotions etc which in turn would reduce the loss of business due to product unavailability. Given data is their secondary sales record of various products that are being sold at various CFAs (Carry Forward Agent) for various channels.
 
-Objective:
+<strong>Objective:</strong>
 
 The main objective of this challenge is to accurately forecast the demand of various products in different channels that are being sold through various CFAs.
 </p>
@@ -85,6 +85,7 @@ The main objective of this challenge is to accurately forecast the demand of var
 </h3>
 
 <p style="color: #333; font-family: 'Muli', sans-serif; margin-bottom: 15px;">
+  Left join was performed between (train, test) and promo.csv after thorough cleaning was done in-order to prevent irregularities in the final table. Feature engineering was performed (18 new features). In the end data was normalized and using correlation analysis and KNN feature selection was done (this was also done using model's feature importance method). In the end lots of models were tested but Hyperparameter tuned, Random Forest Regressor CV gave the best results.
 </p>
 
 
