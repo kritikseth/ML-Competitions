@@ -92,10 +92,6 @@ The main objective of this challenge is to accurately forecast the demand of var
   Connect with me:
 </h3>
 
-![](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/halloffame.png)
-
-![](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/rank.png)
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritikseth)](https://www.linkedin.com/in/kritikseth)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sethkritik@gmail.com)](mailto:sethkritik@gmail.com)
@@ -104,3 +100,7 @@ The main objective of this challenge is to accurately forecast the demand of var
 
 
 <a href="https://kritikseth.github.io/ipynbtagredirect" target="_parent"><img src="https://raw.githack.com/kritikseth/kritikseth/master/assets/icons/kritik_ipynbtagredirect.svg" alt="Kritik Seth"/></a>
+
+![](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/halloffame.png)
+
+![](https://raw.githubusercontent.com/kritikseth/ML-Competitions/master/Mate%20Labs-%20Dockship/Assets/rank.png)
